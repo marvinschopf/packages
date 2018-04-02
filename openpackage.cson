@@ -1,1 +1,7 @@
-download: "https://github.com/openpackage/packages.git"
+name: "OpenPackage"
+description: "Package Manager"
+version: "0.1.0"
+install_type: "zip"
+steps: [
+  ""
+]
