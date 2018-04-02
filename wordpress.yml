@@ -1,6 +1,7 @@
-name: WordPress
-description: CMS
-version: 4.9.4
-install_type: zip
-steps:
-  - https://wordpress.org/latest.zip
+name: "WordPress"
+description: "CMS"
+version: "4.9.4"
+install_type: "zip"
+steps: [
+  "https://wordpress.org/latest.zip"
+]
