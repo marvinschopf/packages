@@ -1,1 +1,1 @@
-download: https://github.com/openpackage/packages.git
+download: "https://github.com/openpackage/packages.git"
