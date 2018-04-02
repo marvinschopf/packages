@@ -3,5 +3,5 @@ description: "Package Manager"
 version: "0.1.0"
 install_type: "zip"
 steps: [
-  ""
+  "https://github.com/openpackage/openpackage/archive/master.zip"
 ]
